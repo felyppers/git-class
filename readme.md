@@ -2,5 +2,5 @@
 
 - Version 1.0.0
 
-## DescrBBBBBiption
+## Description
 New reame file for git class
